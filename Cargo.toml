@@ -1,0 +1,7 @@
+[package]
+name = "test_lunatic"
+version = "0.0.1"
+authors = ["parweb <parweb@gmail.com>"]
+
+[dependencies]
+lunatic = "0.2.0"
